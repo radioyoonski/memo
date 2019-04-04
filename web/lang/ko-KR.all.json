@@ -13,7 +13,7 @@
   },
   {
     "id": "posts",
-    "translation": "올라온 글들"
+    "translation": "메모 보기"
   },
   {
     "id": "profiles",
@@ -25,11 +25,11 @@
   },
   {
     "id": "logout",
-    "translation": "로그아웃 {{.Username}}"
+    "translation": "{{.Username}} 로그아웃"
   },
   {
     "id": "about",
-    "translation": "소개글"
+    "translation": "메모 소개"
   },
   {
     "id": "protocol",
@@ -69,7 +69,7 @@
   },
   {
     "id": "actions",
-    "translation": "기타메뉴"
+    "translation": "모든활동"
   },
   {
     "id": "view_your_profile",
@@ -77,11 +77,15 @@
   },
   {
     "id": "set_name",
-    "translation": "이름 변경"
+    "translation": "이름 설정"
   },
   {
     "id": "set_profile",
-    "translation": "프로필 작성"
+    "translation": "프로필 문구 설정"
+  },
+   {
+    "id": "set_profile_picture",
+    "translation": "프로필 사진 설정"
   },
   {
     "id": "export_key",
@@ -111,7 +115,7 @@
   },
   {
     "id": "top",
-    "translation": "인기글"
+    "translation": "인기 메모"
   },
   {
     "id": "personalized",
@@ -119,15 +123,15 @@
   },
   {
     "id": "new",
-    "translation": "새로운 글"
+    "translation": "새 메모"
   },
   {
     "id": "archive",
-    "translation": "지난 글 모음"
+    "translation": "지난 메모 모음"
   },
   {
     "id": "last_hour",
-    "translation": "지난 한시간"
+    "translation": "지난 1시간"
   },
   {
     "id": "last_24_hours",
@@ -151,11 +155,11 @@
   },
   {
     "id": "save_password",
-    "translation": "비밀번호 저장하기"
+    "translation": "비밀번호 저장"
   },
   {
     "id": "post",
-    "translation": "작성 글"
+    "translation": "메모 작성"
   },
   {
     "id": "profile_text",
@@ -175,15 +179,15 @@
   },
   {
     "id": "view_on_block_explorer",
-    "translation": "블럭탐색기에서 보기"
+    "translation": "블록탐색기에서 보기"
   },
   {
     "id": "view_address_on_block_explorer",
-    "translation": "블럭탐색기로 주소 보기"
+    "translation": "블록탐색기에서 주소 보기"
   },
   {
     "id": "view_name_on_block_explorer",
-    "translation": "블럭 탐색기에서 이름 보기"
+    "translation": "블록탐색기에서 이름 보기"
   },
   {
     "id": "page",
@@ -191,11 +195,11 @@
   },
   {
     "id": "previous",
-    "translation": "이전 페이지"
+    "translation": "이전"
   },
   {
     "id": "next",
-    "translation": "다음 페이지"
+    "translation": "다음"
   },
   {
     "id": "connections",
