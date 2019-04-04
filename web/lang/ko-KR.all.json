@@ -41,7 +41,7 @@
   },
   {
     "id": "statistics",
-    "translation": "통계수치들"
+    "translation": "통계"
   },
   {
     "id": "name",
@@ -69,7 +69,7 @@
   },
   {
     "id": "actions",
-    "translation": "기타메뉴들"
+    "translation": "기타메뉴"
   },
   {
     "id": "view_your_profile",
@@ -85,7 +85,7 @@
   },
   {
     "id": "export_key",
-    "translation": "키 추출하기"
+    "translation": "키 내보내기"
   },
   {
     "id": "change_password",
@@ -94,13 +94,13 @@
   {
     "id": "reply",
     "translation": {
-      "one": "답글",
-      "other": "답글들"
+      "one": "댓글",
+      "other": "댓글"
     }
   },
   {
     "id": "reply_verb",
-    "translation": "대답하다"
+    "translation": "댓글달다"
   },
   {
     "id": "like",
@@ -111,11 +111,11 @@
   },
   {
     "id": "top",
-    "translation": "대세글"
+    "translation": "인기글"
   },
   {
     "id": "personalized",
-    "translation": "맞춤형 글"
+    "translation": "홈 피드"
   },
   {
     "id": "new",
@@ -139,7 +139,7 @@
   },
   {
     "id": "all_time",
-    "translation": "모두"
+    "translation": "전체"
   },
   {
     "id": "message",
@@ -163,7 +163,7 @@
   },
   {
     "id": "feed",
-    "translation": "피드글"
+    "translation": "피드"
   },
   {
     "id": "posted_at",
@@ -195,11 +195,11 @@
   },
   {
     "id": "next",
-    "translation": "다음페이지"
+    "translation": "다음 페이지"
   },
   {
     "id": "connections",
-    "translation": "connections"
+    "translation": "연결고리"
   },
   {
     "id": "follow",
@@ -210,15 +210,15 @@
   },
   {
     "id": "unfollow",
-    "translation": "언 팔로우"
+    "translation": "언팔로우"
   },
   {
     "id": "next_day",
-    "translation": "다음날자"
+    "translation": "다음날"
   },
   {
     "id": "previous_day",
-    "translation": "이전 날자"
+    "translation": "전날"
   },
   {
     "id": "Topic",
@@ -226,7 +226,7 @@
   },
   {
     "id": "Topics",
-    "translation": "주제글들"
+    "translation": "주제글"
   },
   {
     "id": "Send",
@@ -234,7 +234,7 @@
   },
   {
     "id": "Existing_Topics",
-    "translation": "개설된 주제들"
+    "translation": "개설된 주제"
   },
   {
     "id": "Create_new_topic",
@@ -246,11 +246,11 @@
   },
   {
     "id": "Total_posts",
-    "translation": "총 작성된 글"
+    "translation": "전체 작성된 글"
   },
   {
     "id": "Back_to_topics",
-    "translation": "주제들로 돌아가기"
+    "translation": "주제로 돌아가기"
   },
   {
     "id": "Forget_password",
@@ -262,7 +262,7 @@
   },
   {
     "id": "Total",
-    "translation": "총"
+    "translation": "전체"
   },
   {
     "id": "Delete_Account",
@@ -286,7 +286,7 @@
   },
   {
     "id": "Notifications",
-    "translation": "알림들"
+    "translation": "알림"
   },
   {
     "id": "Settings",
@@ -306,7 +306,7 @@
   },
   {
     "id": "select_multiple_options",
-    "translation": "여러가지를 선택가능"
+    "translation": "여러가지 선택가능"
   },
   {
     "id": "question",
@@ -316,7 +316,7 @@
     "id": "option",
     "translation": {
       "one": "선택지",
-      "other": "선택지들"
+      "other": "선택지"
     }
   },
   {
@@ -325,7 +325,7 @@
   },
   {
     "id": "create_poll",
-    "translation": "투표 작성"
+    "translation": "투표 생성"
   },
   {
     "id": "view_topic",
@@ -333,38 +333,38 @@
   },
   {
     "id": "search",
-    "translation": "찾다"
+    "translation": "검색"
   },
   {
     "id": "all",
-    "translation": "all"
+    "translation": "전체"
   },
   {
     "id": "most_posts",
-    "translation": "most posts"
+    "translation": "최다 글"
   },
   {
     "id": "most_followed",
-    "translation": "most followed"
+    "translation": "최다 팔로워"
   },
   {
     "id": "start_thread",
-    "translation": "start thread"
+    "translation": "스레드 시작"
   },
   {
     "id": "set_profile_pic",
-    "translation": "set profile picture"
+    "translation": "프로필 사진 설정"
   },
   {
     "id": "show",
-    "translation": "보이다"
+    "translation": "보이기"
   },
   {
     "id": "replied_to",
-    "translation": "대답했다"
+    "translation": "댓글 달다"
   },
   {
     "id": "topics_following",
-    "translation": "topics following"
+    "translation": "팔로우하는 주제"
   }
 ]
