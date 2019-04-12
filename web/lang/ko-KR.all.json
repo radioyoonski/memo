@@ -147,7 +147,7 @@
   },
   {
     "id": "message",
-    "translation": "메세지"
+    "translation": "메모 내용"
   },
   {
     "id": "password",
@@ -361,7 +361,7 @@
   },
   {
     "id": "show",
-    "translation": "보이기"
+    "translation": "더보기"
   },
   {
     "id": "replied_to",
@@ -370,5 +370,25 @@
   {
     "id": "topics_following",
     "translation": "팔로우하는 주제"
-  }
+  },
+  {
+    "id": "Popular",
+    "translation": "인기"
+  },
+  {
+    "id": "Polls",
+    "translation": "투표"
+  },
+  {
+    "id": "Ranked",
+    "translation": "랭크"
+  },
+  {
+    "id": "top",
+    "translation": "최고메모"
+  },
+  {
+    "id": "last hour",
+    "translation": "지난 한 시간"
+  },
 ]
