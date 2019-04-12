@@ -386,9 +386,5 @@
   {
     "id": "top",
     "translation": "최고메모"
-  },
-  {
-    "id": "last hour",
-    "translation": "지난 한 시간"
-  },
+  }
 ]
